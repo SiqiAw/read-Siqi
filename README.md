@@ -1,2 +1,0 @@
-# read-Siqi
-Homework0
